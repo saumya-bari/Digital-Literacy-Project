@@ -55,6 +55,6 @@
 
 ###
 
-<h3 align="left">Digital-Literacy-Project/├── Task-1-Presentation/│   └── Presentation.pdf├── Task-2-Portfolio/│   ├── Github.jpg│   ├── Linkedin.png│   └── kaggle.png├── Task-3-Platforms/│   ├── Google sheet.png│   ├── Part A - Coding Practice.png│   ├── Part-B.png│   └── Response.png├── Task-4-Email-Etiquette/│   ├── Part A.docx│   └── Part B.docx├── Task-5-Cybercrime/│   ├── PartA-Case_Study.md│   └── PartB-Prevention_Checklist.md└── README.md</h3>
+<h3 align="left">Digital-Literacy-Project/<br>├── Task-1-Presentation/<br>│   └── Presentation.pdf<br>├── Task-2-Portfolio/<br>│   ├── Github.jpg<br>│   ├── Linkedin.png<br>│   └── kaggle.png<br>├── Task-3-Platforms/<br>│   ├── Google sheet.png<br>│   ├── Part A - Coding Practice.png<br>│   ├── Part-B.png<br>│   └── Response.png<br>├── Task-4-Email-Etiquette/<br>│   ├── Part A.docx<br> │   └── Part B.docx<br>├── Task-5-Cybercrime/<br>│   ├── PartA-Case_Study.md<br>│   └── PartB-Prevention_Checklist.md<br>└── README.md</h3>
 
 ###
