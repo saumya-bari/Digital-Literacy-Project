@@ -55,6 +55,24 @@
 
 ###
 
-<h3 align="left">├── Report/Project_Report.pdf <br>├── Task_1_Presentation/<br>├── Task_2_Portfolio/<br>├── Task_3_Platforms/<br>├── Task-4-Email-Etiquette/<br>└── Task_5_Cybercrime/</h3>
+<h3 align="left">Digital-Literacy-Project/
+├── Task-1-Presentation/
+│   └── Presentation.pdf
+├── Task-2-Portfolio/
+│   ├── Github.jpg
+│   ├── Linkedin.png
+│   └── kaggle.png
+├── Task-3-Platforms/
+│   ├── Google sheet.png
+│   ├── Part A - Coding Practice.png
+│   ├── Part-B.png
+│   └── Response.png
+├── Task-4-Email-Etiquette/
+│   ├── Part A.docx
+│   └── Part B.docx
+├── Task-5-Cybercrime/
+│   ├── PartA-Case_Study.md
+│   └── PartB-Prevention_Checklist.md
+└── README.md</h3>
 
 ###
