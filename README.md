@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">📊 Task 1: Digital Literacy Infographic<br>Focus: Visual communication of complex digital concepts.<br><br>Deliverable: A high-impact infographic detailing the pillars of digital awareness.<br><br>🖼️ Task 2: Student Digital Portfolio<br>Focus: Professional identity and web presence.<br><br>Deliverable: Setup and curation of a personal digital showcase.<br><br>💻 Task 3: Platform Exploration<br>Focus: Mastering tools for coding and global collaboration.<br><br>Deliverable: Documentation on platform utility and workflow integration.<br><br>Asset: Access Google Form Results (Update with full link)<br><br>📧 Task 4: Professional Communication<br>Focus: Email etiquette and social media decorum for industry readiness.<br><br>Deliverable: Templates for professional correspondence and a guide to digital networking.<br><br>🛡️ Task 5: Cybersecurity & Ethics<br>Focus: Cybercrime analysis and defensive strategies.<br><br>Deliverable: A detailed case study on modern cyber threats with actionable prevention frameworks.</h3>
+<h3 align="left">📊 Task 1: Digital Literacy Infographic<br>Focus: Visual communication of complex digital concepts.<br><br>Deliverable: A high-impact infographic detailing the pillars of digital awareness.<br><br>🖼️ Task 2: Student Digital Portfolio<br>Focus: Professional identity and web presence.<br><br>Deliverable: Setup and curation of a personal digital showcase.<br><br>💻 Task 3: Platform Exploration<br>Focus: Mastering tools for coding and global collaboration.<br><br>Deliverable: Documentation on platform utility and workflow integration.<br><br>Asset: Access Google Form Results (Update with full link)<br><br>GOOGLE FORM LINK OF TASK-3 ( PART B )<br>https://docs.google.com/forms/d/e/1FAIpQLSdGtmpxz3VS7SrKHJZD4j7Ad6s2SGRB2xbs0oYwU2drrbI21w/viewform<br><br>📧 Task 4: Professional Communication<br>Focus: Email etiquette and social media decorum for industry readiness.<br><br>Deliverable: Templates for professional correspondence and a guide to digital networking.<br><br>🛡️ Task 5: Cybersecurity & Ethics<br>Focus: Cybercrime analysis and defensive strategies.<br><br>Deliverable: A detailed case study on modern cyber threats with actionable prevention frameworks.</h3>
 
 ###
 
@@ -44,7 +44,7 @@
   <a href="https://tryhackme.com/p/saumyabari" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
-    <a href="https://www.hackerrank.com/profile/sopanbari123" target="_blank">
+  <a href="https://www.hackerrank.com/profile/sopanbari123" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
